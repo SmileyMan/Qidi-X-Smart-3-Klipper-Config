@@ -4,7 +4,7 @@ My config files for my Qidi X-Smart 3
 # Important
 My changes are to improve the printer and control via Mainsail / Fluidd. 
 My config will break things on the screen.
-Example: I have re-done the fans so fan control on the screen is no longer needed.
+Example: I have re-done the fans so fan control on the screen is no longer possible.
 
 I don't care about the screen except for Monitoring and being able to stop a print.
 
